@@ -1,4 +1,4 @@
-## Hi! :wave: I'm Koya :ghost:
+## Hi, I'm Koya :wave:
 Konnichi what's up! :japan: :sunrise:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koya-aoyama/)
