@@ -5,7 +5,7 @@ Konnichi what's up! :japan: :sunrise:
 
 I'm a Web developer from Japan, currently based in Vancouver, Canada :maple_leaf: I'm working on some side projects :space_invader: and learning new things :punch: :collision:
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=koyablue&count_private=true&theme=radical)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=koyablue&count_private=true&theme=vue)
 
 ## :sushi: Tools I often use :tea:
 
@@ -45,4 +45,4 @@ I'm a Web developer from Japan, currently based in Vancouver, Canada :maple_leaf
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=koyablue&layout=compact&theme=radical)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=koyablue&layout=compact&theme=vue)
