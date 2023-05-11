@@ -1,4 +1,4 @@
-# Hi I'm Koya :wave:
+## Hi I'm Koya :wave:
 Konnichi what's up! :japan: :sunrise:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koya-aoyama/)
@@ -8,7 +8,7 @@ I'm working on some side projects and learning new things :space_invader: :space
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=koyablue&count_private=true&theme=radical)
 
-# :sushi: Tools I often use :tea:
+## :sushi: Tools I often use :tea:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,5 +33,3 @@ I'm working on some side projects and learning new things :space_invader: :space
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
