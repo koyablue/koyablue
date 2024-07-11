@@ -3,8 +3,9 @@ Konnichi what's up! :japan: :sunrise:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koya-aoyama/)
 
-I'm a Web developer from Japan, currently based in Vancouver, Canada :maple_leaf:  
-I'm working on some side projects and learning new things :punch: :collision:
+~~I'm a Web developer from Japan, currently based in Vancouver, Canada :maple_leaf:  
+I'm working on some side projects and learning new things :punch: :collision:~~  
+**I'm back in Japan!!** :jp: :sushi: :curry: :tea:
 
 ![GitHub Stats Card](https://github-readme-stats-sigma-five.vercel.app/api?username=koyablue&count_private=true&theme=vue)
 
